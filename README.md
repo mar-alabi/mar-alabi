@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Hi, I’m Maryam!
+# 👩🏽‍💻 Hi, I’m Mariam!
 
 I’m a curious and driven **Software Engineer** passionate about building clean, functional, and user-focused solutions. My journey in tech is about consistent learning, embracing challenges, and steadily growing my skills to create impactful projects.
 
