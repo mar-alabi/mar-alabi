@@ -9,7 +9,7 @@ I’m a curious and driven **Software Engineer** passionate about building clean
 ## 🔭 Current Focus
 
 * Deepening my **JavaScript** knowledge and mastering **React** for building interactive UIs.
-* Practicing **frontend development** through projects like games, drawing tools, and UI challenges.
+* Practising **frontend development** through projects like games, drawing tools, and UI challenges.
 * Strengthening my **problem-solving and CS fundamentals** to grow into a well-rounded developer.
 
 ---
@@ -18,7 +18,7 @@ I’m a curious and driven **Software Engineer** passionate about building clean
 
 **Languages**
 
-* JavaScript (ES6+), Python, C
+* JavaScript (ES6+)
 * HTML, CSS
 
 **Frameworks & Libraries**
