@@ -36,7 +36,7 @@ I’m a curious and driven **Software Engineer** passionate about building clean
 
 ## 🎯 Goals
 
-* Land a role as a **Frontend Developer**, then transition into **Augmented and Virtual Reality** over time.
+* Land a role as a **Frontend Developer**, learn backend then transition into **fullstack**, then transition into **Augmented and Virtual Reality** over time.
 * Build meaningful tools and applications that combine creativity, usability, and strong technical foundations.
 * Share my journey openly to inspire other learners who feel “not ready” to start.
 
