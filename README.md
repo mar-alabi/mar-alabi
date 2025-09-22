@@ -32,6 +32,8 @@ I’m a curious and driven **Software Engineer** passionate about building clean
 * Linux/WSL environment
 * Browser DevTools
 
+[![An image of @maralabi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maralabi)](https://holopin.io/@maralabi)
+
 ---
 
 ## 🎯 Goals
