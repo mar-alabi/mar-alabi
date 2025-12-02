@@ -52,7 +52,7 @@ I’m always open to:
 * Connecting with developers, designers, and learners.
 * Sharing resources, learning tips, and coding wins.
 
-📫 Feel free to reach out or connect with me here on GitHub, or you can send an email to morrryyyy20@gmail.com
+📫 Feel free to reach out or connect with me here on GitHub, or you can send an email to mariam.alabi025@gmail.com
 
 ---
 
