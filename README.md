@@ -1,6 +1,6 @@
 # 👩🏽‍💻 Hi, I’m Mariam!
 
-I’m a curious and driven **Software Engineer** passionate about building clean, functional, and user-focused solutions. My journey in tech is about consistent learning, embracing challenges, and steadily growing my skills to create impactful projects.
+I’m a curious and driven **Software Developer** passionate about building clean, functional, and user-focused solutions. My journey in tech is about consistent learning, embracing challenges, and steadily growing my skills to create impactful projects.
 
 🌱 I believe in *messy starts and beautiful journeys*—beginning before I feel “ready” and improving along the way.
 
@@ -23,7 +23,7 @@ I’m a curious and driven **Software Engineer** passionate about building clean
 
 **Frameworks & Libraries**
 
-* React (in progress), DOM manipulation
+* React (in progress)
 
 **Tools**
 
@@ -38,7 +38,7 @@ I’m a curious and driven **Software Engineer** passionate about building clean
 
 ## 🎯 Goals
 
-* Land a role as a **Frontend Developer**, learn backend then transition into **fullstack**, then transition into **Augmented and Virtual Reality** over time.
+* Land a role as a **Frontend Developer**, learn backend then transition into **fullstack**, then transition into **Augmented and Virtual Reality/Robotics** over time.
 * Build meaningful tools and applications that combine creativity, usability, and strong technical foundations.
 * Share my journey openly to inspire other learners who feel “not ready” to start.
 
